@@ -5,3 +5,6 @@ Started code was given to us. I created a div to contain a time block, and copie
 
 I had some help from my tutor, Brian Ford, on the assignment. And I got a little help from the Ask BCS support in Slack on the if/else statement. No one else helped or saw my code. I did use moment.js. I looked up references on MDN, W3, etc, but I don't believe I used any code from those sources. 
 
+[The site is published at:](https://bmalbright.github.io/homework-5/)
+
+![screenshot](homework5.png)
